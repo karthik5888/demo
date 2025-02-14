@@ -1,2 +1,3 @@
 # demo
-my 1st learning repo
+my 1st learning repository
+author-Karthik
